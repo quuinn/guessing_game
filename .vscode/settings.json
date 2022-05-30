@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Kimbie Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontFamily": ""
+}
